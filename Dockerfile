@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.14.3
 
 RUN apk --no-cache upgrade && apk --no-cache add ca-certificates
 
