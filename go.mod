@@ -26,9 +26,8 @@ require (
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/cobra v0.0.7
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344
-	golang.org/x/sys v0.0.0-20200806125547-5acd03effb82 // indirect
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.28.0
 	google.golang.org/protobuf v1.25.0 // indirect
 )
